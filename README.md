@@ -42,3 +42,6 @@ The linting rules are from JS Standard and React-Standard.  [Regular JS errors c
 
 ## :open_file_folder: Related Articles
 Ignite Documentation - [Ignite Wiki https://github.com/infinitered/ignite/wiki](https://github.com/infinitered/ignite/wiki)
+=======
+# ParentsAssitant
+react native app to assist parents on daily base
